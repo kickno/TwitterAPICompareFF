@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA0rEu3rOz9kOvSSr3CWQYcAAAAAACAAAAAAAQZgAAAAEAACAAAACYnd/ihI6GQAyOrMPGugeEmxaUYqL97pSVIotG/bUJXAAAAAAOgAAAAAIAACAAAACqxvP8HzEf6YIc/PWnAMCdGuqAqxwBjTOCsQl4PAp1YjAAAADxEvX+1KLHBuwZbngvDczgkMrrAtTfmfo4JH6XfkWxNy1CvBh2Lkn15tsSf2BvRaNAAAAAR4LUdSMN+NCboya5ykG7jh0mSGVwWdF+jcHk17pKbcbvlSz1C4xvlZeOenKqRBQBOKR6uG+KsCZCVOX/DQzAtQ==</EncryptedPassword>
+    <_PublishTargetUrl>ftp://riot.jp/kickno.riot.jp</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Data/kickno.xml">
+      <publishTime>10/26/2014 20:46:11</publishTime>
+    </File>
+    <File Include="App_Themes/Site.css">
+      <publishTime>10/27/2014 22:02:06</publishTime>
+    </File>
+    <File Include="bin/Hammock.ClientProfile.dll">
+      <publishTime>10/24/2014 19:22:12</publishTime>
+    </File>
+    <File Include="bin/Hammock.dll">
+      <publishTime>10/26/2014 10:40:20</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>10/26/2014 10:40:20</publishTime>
+    </File>
+    <File Include="bin/test.dll">
+      <publishTime>10/30/2014 20:04:49</publishTime>
+    </File>
+    <File Include="bin/TweetSharp.dll">
+      <publishTime>10/26/2014 10:40:20</publishTime>
+    </File>
+    <File Include="CalledBack_SendReqToB.aspx">
+      <publishTime>10/30/2014 15:57:43</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>10/30/2014 18:11:47</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>10/26/2014 10:40:20</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/30/2014 12:12:07</publishTime>
+    </File>
+    <File Include="_Default.aspx">
+      <publishTime>10/25/2014 17:14:16</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
