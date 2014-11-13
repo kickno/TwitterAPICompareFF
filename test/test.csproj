@@ -70,6 +70,7 @@
     <Content Include="App_Themes\Site.css" />
     <Content Include="CalledBack_SendReqToB.aspx" />
     <Content Include="Default.aspx" />
+    <Content Include="TryApple.aspx" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
     </Content>
@@ -89,6 +90,12 @@
     </Compile>
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TryApple.aspx.cs">
+      <DependentUpon>TryApple.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TryApple.aspx.designer.cs">
+      <DependentUpon>TryApple.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
